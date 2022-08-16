@@ -126,6 +126,8 @@ main .container {
       display: flex;
       justify-content: space-between;
       align-items: center; }
+  main .container img {
+    width: 80%; }
   main .container .mobile {
     display: none; }
 
